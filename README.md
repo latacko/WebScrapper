@@ -1,15 +1,18 @@
 Krok pierwszy:
 Wejdź w strone odcinka który chcesz pobrać
-<img src="https://github.com/catppuccin/jellyfin/raw/main/assets/latte.webp" />
+<img src="https://github.com/latacko/WebScrapper/raw/main/firstStep.png" />
 Krok drugi:
 Naciśnij na Pokaż aby zdobyć klucz auth aby ustawić go w .env
-<img src="https://github.com/catppuccin/jellyfin/raw/main/assets/latte.webp" />
+<img src="https://github.com/latacko/WebScrapper/raw/main/secondStep.png" />
 
 Utwórz plik .env i uzupełnij go tak:
 <br>
 login={email}<br>
 pass={password}<br>
 auth={authKey}<br>
+
+następnie wybuduj aplikacje:<br>
+npm run build
 
 aby uruchomić pobieranie wpisz w konsoli:
 
