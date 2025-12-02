@@ -1,4 +1,4 @@
-Supports (tested): Streamup, Vk, Pixeldrain, Lycoriscafe
+Supports (tested): Streamup, Vk, Pixeldrain, Lycoriscafe.
 Maybe even more: supports downloading hls, mpd
 
 Krok pierwszy:
@@ -13,6 +13,8 @@ Utwórz plik .env i uzupełnij go tak:
 login={email}<br>
 pass={password}<br>
 auth={authKey}<br>
+
+npm install
 
 następnie wybuduj aplikacje:<br>
 npm run build
