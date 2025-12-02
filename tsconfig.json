@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "target": "ES2019", // modern JS for Node
+        "module": "commonjs", // Node uses CommonJS
+        "esModuleInterop": true, // allows default imports from commonjs modules
+        "forceConsistentCasingInFileNames": true,
+        "strict": true, // enable strict type checking
+        "skipLibCheck": true, // avoid errors in node_modules types
+        "outDir": "dist" // compiled JS goes here
+    },
+    "include": [
+        "src/**/*"
+    ]
+}

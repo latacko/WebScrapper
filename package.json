@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@types/xml2js": "^0.4.14",
+    "dotenv": "^17.2.3",
+    "puppeteer-real-browser": "^1.4.4",
+    "ts-command-line-args": "^2.5.1",
+    "xml2js": "^0.6.2"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2"
+  },
+  "scripts": {
+    "build": "tsc",
+    "run": "node ./dist/index.js --sourceUrl=https://shinden.pl/episode/70564-let-s-play-quest-darake-no-my-life/view/253287 --targetPath=C:/Users/llata/Documents/WebScrapper/Videos/"
+  }
+}
