@@ -1,3 +1,6 @@
+Supports (tested): Streamup, Vk, Pixeldrain, Lycoriscafe
+Maybe even more: supports downloading hls, mpd
+
 Krok pierwszy:
 Wejdź w strone odcinka który chcesz pobrać
 <img src="https://github.com/latacko/WebScrapper/raw/main/firstStep.png" />
